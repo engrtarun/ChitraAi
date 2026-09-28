@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+chatgpt.com	TRUE	/	FALSE	1999999999	__Host-next-auth.csrf-token	d608b6f44e01132f63d084de56384f3acf60b68eea9c9813dc5b2dd6d409aff8%7Cc7f2cb5ff473a1a10f75e8442f14f219bd563e97d8058b4d470195c44b9dc90a
+chatgpt.com	TRUE	/	FALSE	1999999999	__cflb	04dTofELUVCxHqRn2Xc59cNuWY1cgTFZLRjMZFMmud
+chatgpt.com	TRUE	/	FALSE	1999999999	__cf_bm	jxOcnRm_jui_uUe0vEP829.eKotYcaERGXizq0e3WU0-1790567632.5614104-1.0.1.1-nprv1TB9ZKPJCCri6nQqKPdmWE.VpS3SQwYrhsEBbm0GjIkbR_Lk6uta6IE3VHbC3xVl2NJLo1RLhZz3aTeES.SpON1Lb6S7Z8IkOsctUVD_.of8Y1xGf17QPDrjkNgM
+chatgpt.com	TRUE	/	FALSE	1999999999	_cfuvid	E3neZNkO8vlv1ICc.JQink2__G1h_lSktZsUUbfrOSI-1790567632.5614104-1.0.1.1-AyZiDgJi_GEI3F9GLAZtUzGT_SPhjf7fsRoYe1Oq7WA
+chatgpt.com	TRUE	/	FALSE	1999999999	__Secure-next-auth.callback-url	https%3A%2F%2Fchatgpt.com%2Cchat.edge.unified-144.api.openai.com%2Cchat.gateway.unified-97.api.openai.com%2F
+.chatgpt.com	TRUE	/	FALSE	1999999999	oai-did	c2ace12f-5159-44fd-8ef8-ad43be896092
+chatgpt.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

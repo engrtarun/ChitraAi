@@ -1,0 +1,21 @@
+HTTrack3.50-4 launched on Mon, 28 Sep 2026 09:23:51 at https://chatgpt.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://chatgpt.com/ -O1 "C:\Users\pocot\Music\ChatGPT_CLONE\GPTclone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:24:27	Warning: 	Warning: store application/octet-stream without scan: C:/Users/pocot/Music/ChatGPT_CLONE/GPTclone/chatgpt.com/cdn/assets/favicon-l4nq08hd.svg
+09:28:37	Error: 	Exit requested by shell or user
+09:28:37	Warning: 	Mirror stopped by user, 4 transfer(s) aborted
+09:28:37	Error: 	"" (-1) at link https://chatgpt.com/hu-HU/ (from https://chatgpt.com/)
+09:28:37	Error: 	Exit requested by shell or user
+09:28:37	Warning: 	Mirror aborted: keeping all previously mirrored files
+
+HTTrack Website Copier/3.50-4 mirror aborted after 4 minutes 46 seconds : 117 links scanned, 83 files written (45517572 bytes overall) [10980696 bytes received at 38394 bytes/sec], 45513813 bytes transferred using HTTP compression in 82 files, ratio 23%, 1.9 requests per connection
+(3 errors, 3 warnings, 0 messages)
+(1 links failed to transfer, so the mirror is incomplete)
+* * MIRROR ABORTED! * *
+The mirror stopped before the end. Start it again with --continue to resume it.
+The cache is kept: nothing has to be restored or deleted by hand.
